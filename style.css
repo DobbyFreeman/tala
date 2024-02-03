@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 .no-btn{
-    transition: 0.5s;
+    transition: 0.2s;
 }
 body {
     display: flex;
